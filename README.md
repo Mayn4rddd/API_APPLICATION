@@ -126,4 +126,4 @@ flutter build web --release
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Dart Language Guide](https://dart.dev)
 - [FakeStore API Docs](https://fakestoreapi.com)
-- [Material Design](https://material.io/design)  
+- [Material Design](https://material.io/design)
